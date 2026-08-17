@@ -1,0 +1,9 @@
+[
+    {
+        "name": "My Plugin",
+        "description": "My awesome plugin.",
+        "version": "1.0.0",
+        "icon": "https://raw.githubusercontent.com/AnthonyD-dev/CloudPro-Plugins/main/plugins/TestPlugin/icon.png",
+        "download": "https://github.com/AnthonyD-dev/CloudPro-Plugins/raw/refs/heads/main/plugins/TestPlugin/plugin.zip"
+    }
+]
